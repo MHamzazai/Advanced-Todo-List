@@ -1,0 +1,21 @@
+{
+  "name": "mz34-advanced-todos",
+  "version": "1.0.0",
+  "description": "An Advanced Todo-List With More Functions Using Typescript,Inquirer And Node.js And Also Chalk",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M.Hamza zai",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.12.4",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}

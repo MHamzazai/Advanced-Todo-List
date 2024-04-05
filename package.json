@@ -1,6 +1,6 @@
 {
   "name": "mz34-advanced-todos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Advanced Todo-List With More Functions Using Typescript,Inquirer And Node.js And Also Chalk",
   "main": "main.js",
   "type": "module",
